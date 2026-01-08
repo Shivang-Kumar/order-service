@@ -1,4 +1,4 @@
-package com.practice.microservices.controller;
+package com.practice.microservices.order_Service.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.PostMapping;
