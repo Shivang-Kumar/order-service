@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# MySQL runtime / data (DO NOT COMMIT)
+mysql/
+*.sock
